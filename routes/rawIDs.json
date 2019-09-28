@@ -1,467 +1,466 @@
-[ 
-   { 
-      txt:" Avzaradel, Robert ",
-      "val":" 25 "
-   },
-   { 
-      txt:" Bai, Luna ",
-      "val":" 29 "
-   },
-   { 
-      txt:" Brophy, Megan ",
-      "val":" 89 "
-   },
-   { 
-      txt:" Brophy, Shayne ",
-      "val":" 90 "
-   },
-   { 
-      txt:" Budde, Annette ",
-      "val":" 1 "
-   },
-   { 
-      txt:" Cali, Matthew ",
-      "val":" 125 "
-   },
-   { 
-      txt:" Campbell, Michael ",
-      "val":" 126 "
-   },
-   { 
-      txt:" Cassity, Jay ",
-      "val":" 129 "
-   },
-   { 
-      txt:" Chaney, Michael ",
-      "val":" 132 "
-   },
-   { 
-      txt:" Chang, Paul ",
-      "val":" 135 "
-   },
-   { 
-      txt:" Chen, Daniel ",
-      "val":" 136 "
-   },
-   { 
-      txt:" Chittenden, Kyle ",
-      "val":" 138 "
-   },
-   { 
-      txt:" Chung, Sarah  ",
-      "val":" 137 "
-   },
-   { 
-      txt:" Clark, Tracy ",
-      "val":" 130 "
-   },
-   { 
-      txt:" Clark, Jason ",
-      "val":" 142 "
-   },
-   { 
-      txt:" Cohen, Lauren ",
-      "val":" 143 "
-   },
-   { 
-      txt:" Colunga, Monica ",
-      "val":" 150 "
-   },
-   { 
-      txt:" Cortez, Michelle ",
-      "val":" 155 "
-   },
-   { 
-      txt:" Cota, Gabe ",
-      "val":" 141 "
-   },
-   { 
-      txt:" Cross, Maria ",
-      "val":" 170 "
-   },
-   { 
-      txt:" Crowe, Richard ",
-      "val":" 175 "
-   },
-   { 
-      txt:" Discala, Melissa ",
-      "val":" 185 "
-   },
-   { 
-      txt:" Donnelly, Jennifer ",
-      "val":" 14 "
-   },
-   { 
-      txt:" Dumont, Casey ",
-      "val":" 8 "
-   },
-   { 
-      txt:" Eagleson, Breanne ",
-      "val":" 235 "
-   },
-   { 
-      txt:" Elmasri, Joseph ",
-      "val":" 247 "
-   },
-   { 
-      txt:" Fair, Stephanie ",
-      "val":" 981 "
-   },
-   { 
-      txt:" Fatino, Nickolas ",
-      "val":" 252 "
-   },
-   { 
-      txt:" Faulkner, Deanne ",
-      "val":" 4 "
-   },
-   { 
-      txt:" Fischbacher, Lauren ",
-      "val":" 253 "
-   },
-   { 
-      txt:" Forman, Rachael ",
-      "val":" 255 "
-   },
-   { 
-      txt:" Franko, Sara ",
-      "val":" 595 "
-   },
-   { 
-      txt:" Friedman, Adam ",
-      "val":" 10878 "
-   },
-   { 
-      txt:" Fuller, Leah ",
-      "val":" 360 "
-   },
-   { 
-      txt:" Garbarini, Joann ",
-      "val":" 305 "
-   },
-   { 
-      txt:" Gurski, Alex ",
-      "val":" 19 "
-   },
-   { 
-      txt:" Hanks, Natalie ",
-      "val":" 377 "
-   },
-   { 
-      txt:" Harris, Beri ",
-      "val":" 380 "
-   },
-   { 
-      txt:" Haynes, Travis ",
-      "val":" 390 "
-   },
-   { 
-      txt:" Henderson, Jovi ",
-      "val":" 3 "
-   },
-   { 
-      txt:" Hinman, Crystal ",
-      "val":" 394 "
-   },
-   { 
-      txt:" Huang, Richard ",
-      "val":" 396 "
-   },
-   { 
-      txt:" Hurst, Darin ",
-      "val":" 395 "
-   },
-   { 
-      txt:" Jacobs, Timothy ",
-      "val":" 422 "
-   },
-   { 
-      txt:" Jain, Archana ",
-      "val":" 424 "
-   },
-   { 
-      txt:" Kamai, Kristin ",
-      "val":" 1000 "
-   },
-   { 
-      txt:" Kane, Kevin ",
-      "val":" 431 "
-   },
-   { 
-      txt:" Khan, Timur ",
-      "val":" 432 "
-   },
-   { 
-      txt:" Khurgel, Miriam ",
-      "val":" 438 "
-   },
-   { 
-      txt:" King, Bob ",
-      "val":" 440 "
-   },
-   { 
-      txt:" Klamberg, Amy ",
-      "val":" 645 "
-   },
-   { 
-      txt:" Kraushaar, Jennifer ",
-      "val":" 592 "
-   },
-   { 
-      txt:" Kurdziel, Kimberly ",
-      "val":" 453 "
-   },
-   { 
-      txt:" Lam, Bryan ",
-      "val":" 461 "
-   },
-   { 
-      txt:" Larnard, Phillip ",
-      "val":" 475 "
-   },
-   { 
-      txt:" Linquiti, Cheryl ",
-      "val":" 480 "
-   },
-   { 
-      txt:" Lux, Robin ",
-      "val":" 495 "
-   },
-   { 
-      txt:" McDonald, Lauren ",
-      "val":" 530 "
-   },
-   { 
-      txt:" Mednick, Mark ",
-      "val":" 558 "
-   },
-   { 
-      txt:" Molina, Kelly ",
-      "val":" 575 "
-   },
-   { 
-      txt:" Munsell, Steven ",
-      "val":" 585 "
-   },
-   { 
-      txt:" Natalizio, Sue ",
-      "val":" 590 "
-   },
-   { 
-      txt:" Nguyen, Catherine ",
-      "val":" 587 "
-   },
-   { 
-      txt:" Nguyen, Chris ",
-      "val":" 588 "
-   },
-   { 
-      txt:" Nguyen, Noel ",
-      "val":" 995 "
-   },
-   { 
-      txt:" Nuzman, Kamee ",
-      "val":" 589 "
-   },
-   { 
-      txt:" OConnell, Kevin ",
-      "val":" 591 "
-   },
-   { 
-      txt:" Open Gym 1,  ",
-      "val":" 9 "
-   },
-   { 
-      txt:" Open Gym 2,  ",
-      "val":" 10 "
-   },
-   { 
-      txt:" PE Makeup Class,  ",
-      "val":" 6 "
-   },
-   { 
-      txt:" Peck, Cora ",
-      "val":" 615 "
-   },
-   { 
-      txt:" Perales, Erika ",
-      "val":" 617 "
-   },
-   { 
-      txt:" Peterson, Tina ",
-      "val":" 7 "
-   },
-   { 
-      txt:" Phillips, John ",
-      "val":" 655 "
-   },
-   { 
-      txt:" Phillips, Rebeccah ",
-      "val":" 659 "
-   },
-   { 
-      txt:" Prugpichailers, Jeffrey ",
-      "val":" 665 "
-   },
-   { 
-      txt:" Ricci, Tom ",
-      "val":" 702 "
-   },
-   { 
-      txt:" Rice, Carl ",
-      "val":" 699 "
-   },
-   { 
-      txt:" Roeck, Iris ",
-      "val":" 704 "
-   },
-   { 
-      txt:" Ross, Joy ",
-      "val":" 706 "
-   },
-   { 
-      txt:" Rosser, Morgan ",
-      "val":" 705 "
-   },
-   { 
-      txt:" Rundle, Rhonda ",
-      "val":" 724 "
-   },
-   { 
-      txt:" Russell, Gary ",
-      "val":" 725 "
-   },
-   { 
-      txt:" Russell, Temi ",
-      "val":" 730 "
-   },
-   { 
-      txt:" Sacks, Peter ",
-      "val":" 735 "
-   },
-   { 
-      txt:" Sakallah, Faten ",
-      "val":" 980 "
-   },
-   { 
-      txt:" Saul, Brittney ",
-      "val":" 685 "
-   },
-   { 
-      txt:" Schwan, Vicky ",
-      "val":" 738 "
-   },
-   { 
-      txt:" Sloate, Sheryl ",
-      "val":" 11 "
-   },
-   { 
-      txt:" Smiley, Katherine ",
-      "val":" 815 "
-   },
-   { 
-      txt:" Smith, Courtney ",
-      "val":" 32 "
-   },
-   { 
-      txt:" Soucie, Patti ",
-      "val":" 151 "
-   },
-   { 
-      txt:" Substitue 2,  ",
-      "val":" 5 "
-   },
-   { 
-      txt:" Substitue 5,  ",
-      "val":" 15 "
-   },
-   { 
-      txt:" Substitute 1,  ",
-      "val":" 2 "
-   },
-   { 
-      txt:" Substitute 10,  ",
-      "val":" 21 "
-   },
-   { 
-      txt:" Substitute 11,  ",
-      "val":" 22 "
-   },
-   { 
-      txt:" Substitute 12,  ",
-      "val":" 23 "
-   },
-   { 
-      txt:" Substitute 13,  ",
-      "val":" 24 "
-   },
-   { 
-      txt:" Substitute 14,  ",
-      "val":" 26 "
-   },
-   { 
-      txt:" Substitute 15,  ",
-      "val":" 27 "
-   },
-   { 
-      txt:" Substitute 3,  ",
-      "val":" 12 "
-   },
-   { 
-      txt:" Substitute 4,  ",
-      "val":" 13 "
-   },
-   { 
-      txt:" Substitute 6,  ",
-      "val":" 16 "
-   },
-   { 
-      txt:" Substitute 7,  ",
-      "val":" 17 "
-   },
-   { 
-      txt:" Substitute 8,  ",
-      "val":" 18 "
-   },
-   { 
-      txt:" Substitute 9,  ",
-      "val":" 20 "
-   },
-   { 
-      txt:" Szczudlak, Keith ",
-      "val":" 843 "
-   },
-   { 
-      txt:" Thompson, Leticia ",
-      "val":" 870 "
-   },
-   { 
-      txt:" Toura, Neetu ",
-      "val":" 460 "
-   },
-   { 
-      txt:" Tucker, Mandy ",
-      "val":" 885 "
-   },
-   { 
-      txt:" Valerie, John ",
-      "val":" 880 "
-   },
-   { 
-      txt:" Venlet, Derek ",
-      "val":" 890 "
-   },
-   { 
-      txt:" Yu, Su Young ",
-      "val":" 930 "
-   },
-   { 
-      txt:" Wong, Ray ",
-      "val":" 925 "
-   },
-   { 
-      txt:" Youngren, Brenton ",
-      "val":" 950 "
-   },
-
+[
+{
+txt:" Avzaradel, Robert ",
+val:" 25 "
+},
+{
+txt:" Bai, Luna ",
+val:" 29 "
+},
+{
+txt:" Brophy, Megan ",
+val:" 89 "
+},
+{
+txt:" Brophy, Shayne ",
+val:" 90 "
+},
+{
+txt:" Budde, Annette ",
+val:" 1 "
+},
+{
+txt:" Cali, Matthew ",
+val:" 125 "
+},
+{
+txt:" Campbell, Michael ",
+val:" 126 "
+},
+{
+txt:" Cassity, Jay ",
+val:" 129 "
+},
+{
+txt:" Chaney, Michael ",
+val:" 132 "
+},
+{
+txt:" Chang, Paul ",
+val:" 135 "
+},
+{
+txt:" Chen, Daniel ",
+val:" 136 "
+},
+{
+txt:" Chittenden, Kyle ",
+val:" 138 "
+},
+{
+txt:" Chung, Sarah  ",
+val:" 137 "
+},
+{
+txt:" Clark, Tracy ",
+val:" 130 "
+},
+{
+txt:" Clark, Jason ",
+val:" 142 "
+},
+{
+txt:" Cohen, Lauren ",
+val:" 143 "
+},
+{
+txt:" Colunga, Monica ",
+val:" 150 "
+},
+{
+txt:" Cortez, Michelle ",
+val:" 155 "
+},
+{
+txt:" Cota, Gabe ",
+val:" 141 "
+},
+{
+txt:" Cross, Maria ",
+val:" 170 "
+},
+{
+txt:" Crowe, Richard ",
+val:" 175 "
+},
+{
+txt:" Discala, Melissa ",
+val:" 185 "
+},
+{
+txt:" Donnelly, Jennifer ",
+val:" 14 "
+},
+{
+txt:" Dumont, Casey ",
+val:" 8 "
+},
+{
+txt:" Eagleson, Breanne ",
+val:" 235 "
+},
+{
+txt:" Elmasri, Joseph ",
+val:" 247 "
+},
+{
+txt:" Fair, Stephanie ",
+val:" 981 "
+},
+{
+txt:" Fatino, Nickolas ",
+val:" 252 "
+},
+{
+txt:" Faulkner, Deanne ",
+val:" 4 "
+},
+{
+txt:" Fischbacher, Lauren ",
+val:" 253 "
+},
+{
+txt:" Forman, Rachael ",
+val:" 255 "
+},
+{
+txt:" Franko, Sara ",
+val:" 595 "
+},
+{
+txt:" Friedman, Adam ",
+val:" 10878 "
+},
+{
+txt:" Fuller, Leah ",
+val:" 360 "
+},
+{
+txt:" Garbarini, Joann ",
+val:" 305 "
+},
+{
+txt:" Gurski, Alex ",
+val:" 19 "
+},
+{
+txt:" Hanks, Natalie ",
+val:" 377 "
+},
+{
+txt:" Harris, Beri ",
+val:" 380 "
+},
+{
+txt:" Haynes, Travis ",
+val:" 390 "
+},
+{
+txt:" Henderson, Jovi ",
+val:" 3 "
+},
+{
+txt:" Hinman, Crystal ",
+val:" 394 "
+},
+{
+txt:" Huang, Richard ",
+val:" 396 "
+},
+{
+txt:" Hurst, Darin ",
+val:" 395 "
+},
+{
+txt:" Jacobs, Timothy ",
+val:" 422 "
+},
+{
+txt:" Jain, Archana ",
+val:" 424 "
+},
+{
+txt:" Kamai, Kristin ",
+val:" 1000 "
+},
+{
+txt:" Kane, Kevin ",
+val:" 431 "
+},
+{
+txt:" Khan, Timur ",
+val:" 432 "
+},
+{
+txt:" Khurgel, Miriam ",
+val:" 438 "
+},
+{
+txt:" King, Bob ",
+val:" 440 "
+},
+{
+txt:" Klamberg, Amy ",
+val:" 645 "
+},
+{
+txt:" Kraushaar, Jennifer ",
+val:" 592 "
+},
+{
+txt:" Kurdziel, Kimberly ",
+val:" 453 "
+},
+{
+txt:" Lam, Bryan ",
+val:" 461 "
+},
+{
+txt:" Larnard, Phillip ",
+val:" 475 "
+},
+{
+txt:" Linquiti, Cheryl ",
+val:" 480 "
+},
+{
+txt:" Lux, Robin ",
+val:" 495 "
+},
+{
+txt:" McDonald, Lauren ",
+val:" 530 "
+},
+{
+txt:" Mednick, Mark ",
+val:" 558 "
+},
+{
+txt:" Molina, Kelly ",
+val:" 575 "
+},
+{
+txt:" Munsell, Steven ",
+val:" 585 "
+},
+{
+txt:" Natalizio, Sue ",
+val:" 590 "
+},
+{
+txt:" Nguyen, Catherine ",
+val:" 587 "
+},
+{
+txt:" Nguyen, Chris ",
+val:" 588 "
+},
+{
+txt:" Nguyen, Noel ",
+val:" 995 "
+},
+{
+txt:" Nuzman, Kamee ",
+val:" 589 "
+},
+{
+txt:" OConnell, Kevin ",
+val:" 591 "
+},
+{
+txt:" Open Gym 1,  ",
+val:" 9 "
+},
+{
+txt:" Open Gym 2,  ",
+val:" 10 "
+},
+{
+txt:" PE Makeup Class,  ",
+val:" 6 "
+},
+{
+txt:" Peck, Cora ",
+val:" 615 "
+},
+{
+txt:" Perales, Erika ",
+val:" 617 "
+},
+{
+txt:" Peterson, Tina ",
+val:" 7 "
+},
+{
+txt:" Phillips, John ",
+val:" 655 "
+},
+{
+txt:" Phillips, Rebeccah ",
+val:" 659 "
+},
+{
+txt:" Prugpichailers, Jeffrey ",
+val:" 665 "
+},
+{
+txt:" Ricci, Tom ",
+val:" 702 "
+},
+{
+txt:" Rice, Carl ",
+val:" 699 "
+},
+{
+txt:" Roeck, Iris ",
+val:" 704 "
+},
+{
+txt:" Ross, Joy ",
+val:" 706 "
+},
+{
+txt:" Rosser, Morgan ",
+val:" 705 "
+},
+{
+txt:" Rundle, Rhonda ",
+val:" 724 "
+},
+{
+txt:" Russell, Gary ",
+val:" 725 "
+},
+{
+txt:" Russell, Temi ",
+val:" 730 "
+},
+{
+txt:" Sacks, Peter ",
+val:" 735 "
+},
+{
+txt:" Sakallah, Faten ",
+val:" 980 "
+},
+{
+txt:" Saul, Brittney ",
+val:" 685 "
+},
+{
+txt:" Schwan, Vicky ",
+val:" 738 "
+},
+{
+txt:" Sloate, Sheryl ",
+val:" 11 "
+},
+{
+txt:" Smiley, Katherine ",
+val:" 815 "
+},
+{
+txt:" Smith, Courtney ",
+val:" 32 "
+},
+{
+txt:" Soucie, Patti ",
+val:" 151 "
+},
+{
+txt:" Substitue 2,  ",
+val:" 5 "
+},
+{
+txt:" Substitue 5,  ",
+val:" 15 "
+},
+{
+txt:" Substitute 1,  ",
+val:" 2 "
+},
+{
+txt:" Substitute 10,  ",
+val:" 21 "
+},
+{
+txt:" Substitute 11,  ",
+val:" 22 "
+},
+{
+txt:" Substitute 12,  ",
+val:" 23 "
+},
+{
+txt:" Substitute 13,  ",
+val:" 24 "
+},
+{
+txt:" Substitute 14,  ",
+val:" 26 "
+},
+{
+txt:" Substitute 15,  ",
+val:" 27 "
+},
+{
+txt:" Substitute 3,  ",
+val:" 12 "
+},
+{
+txt:" Substitute 4,  ",
+val:" 13 "
+},
+{
+txt:" Substitute 6,  ",
+val:" 16 "
+},
+{
+txt:" Substitute 7,  ",
+val:" 17 "
+},
+{
+txt:" Substitute 8,  ",
+val:" 18 "
+},
+{
+txt:" Substitute 9,  ",
+val:" 20 "
+},
+{
+txt:" Szczudlak, Keith ",
+val:" 843 "
+},
+{
+txt:" Thompson, Leticia ",
+val:" 870 "
+},
+{
+txt:" Toura, Neetu ",
+val:" 460 "
+},
+{
+txt:" Tucker, Mandy ",
+val:" 885 "
+},
+{
+txt:" Valerie, John ",
+val:" 880 "
+},
+{
+txt:" Venlet, Derek ",
+val:" 890 "
+},
+{
+txt:" Yu, Su Young ",
+val:" 930 "
+},
+{
+txt:" Wong, Ray ",
+val:" 925 "
+},
+{
+txt:" Youngren, Brenton ",
+val:" 950 "
+}
 ]
