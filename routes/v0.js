@@ -79,7 +79,7 @@ router.post('/:school/offerings', (req, res, next) => {
 });
 
 router.get('/:school/teachers', (req, res) => {
-  if (req.params.school !== 'irvington') {
+  if (req.params.school !== 'irvine') {
     res.status(400).end();
   }
   res.sendFile(__dirname + '/rawIDs.json');
