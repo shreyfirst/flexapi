@@ -24,7 +24,7 @@ flexGetter.login = (username, password) => {
         var cookieJar = request.jar();
         var options = {
             method: 'POST',
-            url: `https://teachmore.org/${school}/students/studentLoginCheck.php`,
+            url: `https://teachmore.org/${school}/students/`,
             headers: {
                 "referer": `https://teachmore.org/${school}/students/`,
                 "content-type": "application/x-www-form-urlencoded"
